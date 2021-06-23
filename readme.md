@@ -1,6 +1,6 @@
-# Welcome to Adventure world 
+# 어드벤처퍼즐 깃허브에 오신것을 환영합니다.
 
-어드벤처 월드에 오신것을 환영합니다.
+## 어드벤처퍼즐 
 
 ※ 폴더 요약 <br>
 Info. Adventure Puzzle : 어드벤처퍼즐 앱에 대한 정의 <br>
